@@ -1125,14 +1125,6 @@ SpamTab:Button({
     end,
 })
 
-SpamTab:Button({
-    Title = "COMING SOON🔜",
-    Desc = "click to execute the soon",
-    Callback = function()
-        loadstring(game:HttpGet("xx"))(),true))()
-    end,
-})
-
 --// LIFE TOGETHER RP
 local LifeTogetherTab = Window:Tab({
     Title = "LIFE TOGETHER RP ☄️",
