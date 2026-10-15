@@ -1,4 +1,4 @@
---// MONK HUB V1 - WindUI Interface
+--// AYAN HUB V2 - WindUI Interface
 
 local WindUI = loadstring(game:HttpGet(
     "https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"
@@ -69,7 +69,7 @@ InfoTab:Paragraph({
 
 InfoTab:Paragraph({
     Title = "ROBLOX ID",
-    Desc = "SUPERMONKXSCRIPTS",
+    Desc = "ZM_AYANUUSCRIPTS",
 })
 
 InfoTab:Paragraph({
@@ -1121,7 +1121,7 @@ SpamTab:Button({
     Title = "AYAN SUPER SPAM 👑",
     Desc = "Click to execute the ultimate VIP Spammer!",
     Callback = function()
-        loadstring(game:HttpGet(("https://raw.githubusercontent.com/MANASMCPE/Spam/refs/heads/main/SAPMM.lua"),true))()
+        loadstring(game:HttpGet(("https://raw.githubusercontent.com/ayanjaveed503-a11y/AYAN-SPAM/refs/heads/main/AYAN%20SPAM"),true))()
     end,
 })
 
@@ -1135,7 +1135,7 @@ LifeTogetherTab:Button({
     Title = "AYAN PREMIUM OUTFIT COPIER 🤩 (ONLY FOR LIFE TOGETHER ☄️)GUI✌🏻",
     Desc = "Click to open the outfit copier GUI",
     Callback = function()
-        loadstring(game:HttpGet(("https://raw.githubusercontent.com/MANASMCPE/FiTcopierDeobfByMonK/refs/heads/main/deobfuscated_by_MONK.lua"),true))()
+        loadstring(game:HttpGet(("https://raw.githubusercontent.com/ayanjaveed503-a11y/AYAN-OUTFIT-STEALER/refs/heads/main/AYAN%20OUTFIT%20STEALER"),true))()
     end,
 })
 
@@ -1143,7 +1143,7 @@ LifeTogetherTab:Button({
     Title = "AYAN 👹ULTIMATE TRAPPING 🌪️",
     Desc = "Click to open the Ultimate Pyramid Trap GUI",
     Callback = function()
-        loadstring(game:HttpGet(("https://raw.githubusercontent.com/MANASMCPE/LIFETOGETHERRPSCRIPTOPENSLURCE-/refs/heads/main/trap.lua"),true))()
+        loadstring(game:HttpGet(("https://raw.githubusercontent.com/ayanjaveed503-a11y/AYAN-HUB-TRAP-CHAIR/refs/heads/main/AYAN%20HUB%20TRAP%20CHAIR"),true))()
     end,
 })
 
