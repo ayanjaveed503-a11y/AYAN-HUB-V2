@@ -1125,6 +1125,16 @@ SpamTab:Button({
     end,
 })
 
+MyOwnTab:Button({
+    Title = "kuch bi ho shakta 👹",
+    Desc = "kuch dino ma agya ",
+    Callback = function()
+    
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ayanjaveed503-a11y/AYAN-HUB-V2/refs/heads/main/AYAN%20HUBV2%20testing2%20.txt"))()
+        print("Feature Activated!")
+    end,
+})
+
 --// LIFE TOGETHER RP
 local LifeTogetherTab = Window:Tab({
     Title = "LIFE TOGETHER RP ☄️",
